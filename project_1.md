@@ -139,3 +139,5 @@ LAMP stack is completely installed and fully operational.
 It’s best to remove the file you created as it contains sensitive information about your PHP environment -and your Ubuntu server. You can use rm to do so:
 
 ![image_8](./images_1/image_8.PNG)
+
+Page can be recreated if needed to access informations later.
